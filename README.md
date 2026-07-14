@@ -325,3 +325,7 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 Made by **[Nick](https://github.com/deathlegionteamlk)** · Team **DeathLegionLK**
 
 </div>
+
+<!-- DL Code Badge -->
+![Status](https://img.shields.io/badge/status-active-success?style=flat-square)
+
